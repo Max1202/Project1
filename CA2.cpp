@@ -18,5 +18,6 @@ int main()
 		cout << setw(10) << "x=" << x << setw(10) << "y=" << y << endl;
 		x += h;
 	}
-	
+	system("pause");
+	return 0;
 }
